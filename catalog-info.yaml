@@ -1,0 +1,12 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: azure-cost-cli
+  description: backstage.io
+  annotations:
+    github.com/project-slug: 'chandanamakineni/azure-cost-cli'
+spec:
+  type: website
+  lifecycle: production
+  owner: DL-CloudEngineering
